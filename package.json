@@ -1,0 +1,19 @@
+{
+  "name": "apijs",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "mongoose": "^8.2.1",
+    "pg": "^8.11.3",
+    "sequelize": "^6.37.1"
+  }
+}
