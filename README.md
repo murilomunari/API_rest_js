@@ -1,6 +1,6 @@
 Documentação da API REST com Node.js e MongoDB
 Visão Geral
-Este projeto é uma API REST desenvolvida em Node.js que permite a criação, leitura, atualização e exclusão de recursos em um banco de dados MongoDB. Ele fornece endpoints para manipulação de dados relacionados a [Tema do Seu Projeto].
+Este projeto é uma API REST desenvolvida em Node.js que permite a criação, leitura, atualização e exclusão de recursos em um banco de dados MongoDB. Ele fornece endpoints para manipulação de dados relacionados a [Tema ainda não definido].
 
 Endpoints da API
 A API oferece os seguintes endpoints:
