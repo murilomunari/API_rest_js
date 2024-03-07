@@ -28,7 +28,7 @@ Siga estas instruções para instalar e executar o projeto em sua máquina local
 Clonar o repositório:
 
 bash
-git clone [https://github.com/seu-usuario/seu-projeto.git](https://github.com/murilomunari/API_rest_js.git)
+git clone (https://github.com/murilomunari/API_rest_js.git)
 cd seu-projeto
 Instalar as dependências:
 
